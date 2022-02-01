@@ -1,4 +1,4 @@
-age,occupation,marital_status,education_level,airtime_balance,housing,loan,phone_time,joined
+age,occupation,marital_status,education_level,airtime_balance,housing,loan,call_duration,joined
 31,blue-collar,single,secondary,-8.06,yes,yes,3,no
 58,technician,single,secondary,86,yes,no,1,no
 50,clerk,married,secondary,5.12,yes,yes,1,no
